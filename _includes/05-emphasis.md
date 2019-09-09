@@ -1,0 +1,11 @@
+- Languages
+  - __*coding*__
+    - __C++__
+    - __HTML and CSS (a little bit)__
+    - __JavaScript (a little)__
+  - __*linguistic*__
+    - __Russian__
+    - __French__
+    - __English__
+- Piano
+  - *Grade 9 theory and practical exams 2019*
